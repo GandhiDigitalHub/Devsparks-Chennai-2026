@@ -177,7 +177,7 @@ You need this to preview the diagrams Bob generates in Step 2.
 
 1. Go to the lab repo and download the ZIP:
    ```
-   [https://github.com/anuj34822/DevSparks-Hyderabad-2026](https://github.com/stirouca/Devsparks-Chennai-2026)
+   https://github.com/stirouca/Devsparks-Chennai-2026
    ```
    Click **Code → Download ZIP**. Extract it — you will get a folder named `DevSparks-Chennai-2026-main`.
 
