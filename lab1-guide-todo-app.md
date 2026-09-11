@@ -89,6 +89,7 @@ The application created in this lab uses the following architecture:
 
 - REST APIs using JavaScript Fetch API
 </details>
+</details>
 
 ---
 
