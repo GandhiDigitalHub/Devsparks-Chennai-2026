@@ -89,6 +89,9 @@ The application created in this lab uses the following architecture:
 
 # Lab Tasks
 
+<details><summary>Click for more info</summary>
+
+
 ## Task 1: Open a Workspace in IBM Bob
 
 <details><summary>Click for more info</summary>
@@ -386,6 +389,9 @@ The application now includes:
 </details>
 
 ---
+
+</details>
+
 
 ## Key Takeaways
 
