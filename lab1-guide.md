@@ -17,6 +17,8 @@ Throughout the lab, you will explore how Bob can assist with application plannin
 
 ## Lab Objectives
 
+<details><summary>Click for more info</summary>
+
 By the end of this lab, you will be able to:
 
 - Understand the IBM Bob development workflow
@@ -27,9 +29,14 @@ By the end of this lab, you will be able to:
 - Enhance the application's user experience through conversational prompts
 - Run and test a Flask-based web application
 
+</details>
+
 ---
 
 ## Prerequisites
+
+<details><summary>Click for more info</summary>
+
 
 Before starting the lab, ensure you have the following:
 
@@ -47,9 +54,14 @@ Basic understanding of:
 - REST APIs
 - HTML, CSS, and JavaScript
 
+</details>
+
 ---
 
 ## Solution Architecture
+
+<details><summary>Click for more info</summary>
+
 
 The application created in this lab uses the following architecture:
 
@@ -71,12 +83,16 @@ The application created in this lab uses the following architecture:
 ### Communication
 
 - REST APIs using JavaScript Fetch API
+</details>
 
 ---
 
 # Lab Tasks
 
 ## Task 1: Open a Workspace in IBM Bob
+
+<details><summary>Click for more info</summary>
+
 
 ### Step 1: Launch IBM Bob IDE
 
@@ -112,9 +128,13 @@ Choose **Plan Mode**.
 
 ![Plan Mode](images-lab1/img16.png)
 
+</details>
+
 ---
 
 ## Task 2: Generate the Application Plan
+
+<details><summary>Click for more info</summary>
 
 In this task, Bob helps define the application's architecture and implementation strategy before code generation begins.
 
@@ -170,9 +190,13 @@ Choose an option similar to:
 
 ![Select Visual Style](images-lab1/img20.png)
 
+</details>
+
 ---
 
 ## Task 3: Review and Approve the Plan
+
+<details><summary>Click for more info</summary>
 
 ### Step 1: Review Plan Generation
 
@@ -222,9 +246,16 @@ Once complete, Bob creates the application source code and project structure.
 
 ![Generated Project Files](images-lab1/img27.png)
 
+</details>
+
+
 ---
 
 ## Task 4: Run the Application
+
+
+<details><summary>Click for more info</summary>
+
 
 ### Step 1: Request Runtime Instructions
 
@@ -263,10 +294,14 @@ http://127.0.0.1:5000
 ![Launch Application](images-lab1/img33.png)
 
 The application is displayed.
+</details>
+
 
 ---
 
 ## Task 5: Troubleshoot Application Issues Using Bob
+
+<details><summary>Click for more info</summary>
 
 AI-assisted troubleshooting is one of the most valuable capabilities of IBM Bob.
 
@@ -308,9 +343,12 @@ Add a few sample tasks to validate the solution.
 
 ![Verify Application](images-lab1/img38.png)
 
+</details>
 ---
 
 ## Task 6: Enhance the User Interface
+
+<details><summary>Click for more info</summary>
 
 The initial version of the application is functional but may have a basic appearance.
 
@@ -344,9 +382,13 @@ The application now includes:
 - Better user experience
 - More professional appearance
 
+</details>
+
 ---
 
 ## Key Takeaways
+
+<details><summary>Click for more info</summary>
 
 During this lab, IBM Bob assisted in:
 
@@ -359,6 +401,9 @@ During this lab, IBM Bob assisted in:
 - Resolving CORS and configuration problems
 - Enhancing the user interface
 - Accelerating end-to-end application development
+
+
+</details>
 
 ---
 
