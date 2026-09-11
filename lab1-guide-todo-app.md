@@ -19,7 +19,7 @@ Throughout the lab, you will explore how Bob can assist with application plannin
 
 #### TODO App
 
-![Enhanced Application UI](images-lab1/img41.png)
+![Enhanced Application UI](images-lab1/img10.png)
 
 ---
 
