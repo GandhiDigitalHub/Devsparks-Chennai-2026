@@ -1,4 +1,4 @@
-# Hands-on Lab: Building a Modern To-Do Application with IBM watsonx Code Assistant for Z (IBM Bob)
+# Hands-on Lab: Building a Modern To-Do Application with IBM Bob
 
 ## Lab Overview
 
@@ -344,6 +344,7 @@ Add a few sample tasks to validate the solution.
 ![Verify Application](images-lab1/img38.png)
 
 </details>
+
 ---
 
 ## Task 6: Enhance the User Interface
