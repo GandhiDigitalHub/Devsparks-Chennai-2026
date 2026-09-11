@@ -99,6 +99,9 @@ The application created in this lab uses the following architecture:
 
 ## Task 1: IBM Bob Installation and Onboarding
 
+<details><summary>Click for more info</summary>
+
+
 1. Install Bob IDE using the [link](./bob-install.md#user-content-1-install-the-ibm-bob-ide). 
 
 2. Register for the IBM Bob Trial license using the [link](./bob-install.md#user-content-2-register-for-an-ibm-bob-trial-licence).
