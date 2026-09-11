@@ -91,8 +91,21 @@ The application created in this lab uses the following architecture:
 
 <details><summary>Click for more info</summary>
 
+## Task 1: IBM Bob Installation and Onboarding
 
-## Task 1: Open a Workspace in IBM Bob
+bob-install
+
+1. You should have IBM Id to access IBM Bob, if you don't have one, you can create a one using your personal/official mail id. Create an IBM Id using the [link](https://www.ibm.com/account/reg/us-en/signup?formid=urx-19776). 
+
+
+2. Install Bob IDE using the [link](https://bob.ibm.com/download?bob=ide). 
+
+3. Login to the BOB using the IBM Id above created.
+
+Note : The detailed installation steps are avialable [here](https://bob.ibm.com/docs/ide/getting-started/install) 
+
+
+## Task 2: Open a Workspace in IBM Bob
 
 <details><summary>Click for more info</summary>
 
@@ -135,7 +148,7 @@ Choose **Plan Mode**.
 
 ---
 
-## Task 2: Generate the Application Plan
+## Task 3: Generate the Application Plan
 
 <details><summary>Click for more info</summary>
 
@@ -197,7 +210,7 @@ Choose an option similar to:
 
 ---
 
-## Task 3: Review and Approve the Plan
+## Task 4: Review and Approve the Plan
 
 <details><summary>Click for more info</summary>
 
@@ -254,7 +267,7 @@ Once complete, Bob creates the application source code and project structure.
 
 ---
 
-## Task 4: Run the Application
+## Task 5: Run the Application
 
 
 <details><summary>Click for more info</summary>
@@ -302,7 +315,7 @@ The application is displayed.
 
 ---
 
-## Task 5: Troubleshoot Application Issues Using Bob
+## Task 6: Troubleshoot Application Issues Using Bob
 
 <details><summary>Click for more info</summary>
 
@@ -350,7 +363,7 @@ Add a few sample tasks to validate the solution.
 
 ---
 
-## Task 6: Enhance the User Interface
+## Task 7: Enhance the User Interface
 
 <details><summary>Click for more info</summary>
 

@@ -5,22 +5,22 @@
 
 ## Labs
 
-### 🔬 Lab 1 — Java Modernization
+### 🔬 Lab 1 — TODO App Development
 Develop a simple TODO Application using IBM Bob.
 
-📖 **[Start Lab 1 → lab1-guide.md](./lab1-guide.md)**
+📖 **[Start Lab 1 → lab1-guide.md](./lab1-guide-todo-app.md)**
 
 #### Tech Stack 
-- Backend : Python, Flask
-- Frontend : html/css/javascript
-- Database : In-memory
+- Backend : Python, Flask Framework
+- Frontend : HTML. CSS, JavaScript
+- Database : In-memory db
 
 ---
 
 ### 🔬 Lab 2 — Java Modernization
 Transform a **Legacy Struts 1.3 + Java 8 + SQLite** application into a modern **Spring Boot 3.x + React 18 + PostgreSQL 15** cloud-native app — using IBM Bob.
 
-📖 **[Start Lab 2 → lab2-guide.md](./lab2-guide.md)**
+📖 **[Start Lab 2 → lab2-guide.md](./lab2-guide-java-modern.md)**
 
 | Layer | Before | After |
 |---|---|---|
