@@ -125,7 +125,7 @@ Click **Open Folder**.
 
 ![Open Folder](images-lab1/img12.png)
 
-Select a folder that will be used as your application workspace.
+Select a new folder that will be used as your application workspace.
 
 ![Choose Workspace Folder](images-lab1/img13.png)
 
@@ -164,12 +164,15 @@ In this task, Bob helps define the application's architecture and implementation
 Enter the following prompt in the chat window:
 
 ```text
-I want to create a simple To-Do application with a Python Flask backend, an HTML/CSS/JavaScript frontend, and an in-memory database for data storage.
+I want to create a simple To-Do application with Python/Flask backend, HTML/CSS/JavaScript frontend, and an in-memory database for data storage.
 
 The user interface should have a modern, responsive, and visually appealing look and feel.
 
 Please help me with the implementation plan.
 ```
+
+In case, if you are not familar with python you can simply change `Python/Flask` with `Java 17/springboot` in the prompt to create java based application.
+
 
 ![Initial Prompt](images-lab1/img17.png)
 
