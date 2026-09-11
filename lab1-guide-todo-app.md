@@ -414,11 +414,6 @@ The application now includes:
 
 
 
-
----
-
-
-
 # 3. Key Takeaways
 
 <details><summary>Click for more info</summary>
