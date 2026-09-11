@@ -3,6 +3,16 @@
 
 ---
 
+## Plan
+
+| S.No	| Topic	| Minutes | 
+|---|---|---|
+| 1	| Intoducing Bob and Lab	| 5| 
+| 2	| Lab 1 Walkthrough	| 5| 
+| 3	| Lab 1 Execution	| 25| 
+| 4	| Lab 2 Walkthrough	| 5| 
+| 5	| Lab 2 Execution	| 20|
+
 ## Labs
 
 ### 🔬 Lab 1 — TODO App Development

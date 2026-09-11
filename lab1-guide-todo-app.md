@@ -13,6 +13,8 @@ Using natural language prompts, you will interact with Bob to create a complete 
 
 Throughout the lab, you will explore how Bob can assist with application planning, code generation, debugging, and UI enhancement, significantly accelerating the software development lifecycle.
 
+![Open Folder](images-lab1/img11.png)
+
 ---
 
 ## Lab Objectives
@@ -36,7 +38,6 @@ By the end of this lab, you will be able to:
 ## Prerequisites
 
 <details><summary>Click for more info</summary>
-
 
 Before starting the lab, ensure you have the following:
 
@@ -93,17 +94,11 @@ The application created in this lab uses the following architecture:
 
 ## Task 1: IBM Bob Installation and Onboarding
 
-bob-install
+1. Install Bob IDE using the [link](./bob-install.md). 
 
-1. You should have IBM Id to access IBM Bob, if you don't have one, you can create a one using your personal/official mail id. Create an IBM Id using the [link](https://www.ibm.com/account/reg/us-en/signup?formid=urx-19776). 
+2. Register for the IBM Bob Trial license using the [link](./bob-install.md).
 
-
-2. Install Bob IDE using the [link](https://bob.ibm.com/download?bob=ide). 
-
-3. Login to the BOB using the IBM Id above created.
-
-Note : The detailed installation steps are avialable [here](https://bob.ibm.com/docs/ide/getting-started/install) 
-
+3. Login to the BOB using the [link](./bob-install.md). 
 
 ## Task 2: Open a Workspace in IBM Bob
 
