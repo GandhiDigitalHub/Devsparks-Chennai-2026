@@ -95,8 +95,6 @@ The application created in this lab uses the following architecture:
 
 # 2. Lab Tasks
 
-<details><summary>Click for more info</summary>
-
 ## Task 1: IBM Bob Installation and Onboarding
 
 <details><summary>Click for more info</summary>
@@ -409,8 +407,6 @@ The application now includes:
 </details>
 
 ---
-
-</details>
 
 
 

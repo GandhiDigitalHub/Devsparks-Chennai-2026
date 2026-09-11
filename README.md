@@ -5,13 +5,15 @@
 
 ## Plan
 
-| S.No	| Topic	| Minutes | 
-|---|---|---|
-| 1	| Intoducing Bob and Lab	| 5| 
-| 2	| Lab 1 Walkthrough	| 5| 
-| 3	| Lab 1 Execution	| 25| 
-| 4	| Lab 2 Walkthrough	| 5| 
-| 5	| Lab 2 Execution	| 20|
+| S.No	| Topic	| Link | Minutes | 
+|---|---|---|---|
+| 1	| Intoducing Bob and Lab |	| 5| 
+| 2	| Lab 1 Walkthrough	| [Link](./lab1-guide-todo-app.md) | 5| 
+| 3	| Lab 1 Execution	| [Link](./lab1-guide-todo-app.md) | 25| 
+| 4	| Lab 2 Walkthrough	| [Link](./lab2-guide-java-modern.md) | 5| 
+| 5	| Lab 2 Execution	| [Link](./lab2-guide-java-modern.md) | 20|
+
+---
 
 ## Labs
 
