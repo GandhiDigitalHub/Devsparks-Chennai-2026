@@ -1,7 +1,5 @@
 # Hands-on Lab: Building a Modern To-Do Application with IBM Bob
 
-## Lab Overview
-
 In this hands-on lab, you will learn how to use **IBM Bob** as an AI-powered development assistant to design, generate, troubleshoot, and enhance a modern web-based To-Do application.
 
 Using natural language prompts, you will interact with Bob to create a complete full-stack application consisting of:
@@ -23,6 +21,10 @@ Throughout the lab, you will explore how Bob can assist with application plannin
 
 ---
 
+# 1. Lab Details
+
+<details><summary>Click for more info</summary>
+
 ## Lab Objectives
 
 <details><summary>Click for more info</summary>
@@ -38,8 +40,6 @@ By the end of this lab, you will be able to:
 - Run and test a Flask-based web application
 
 </details>
-
----
 
 ## Prerequisites
 
@@ -62,8 +62,6 @@ Basic understanding of:
 - HTML, CSS, and JavaScript
 
 </details>
-
----
 
 ## Solution Architecture
 
@@ -94,7 +92,7 @@ The application created in this lab uses the following architecture:
 
 ---
 
-# Lab Tasks
+# 2. Lab Tasks
 
 <details><summary>Click for more info</summary>
 
@@ -411,7 +409,13 @@ The application now includes:
 </details>
 
 
-## Key Takeaways
+
+
+---
+
+
+
+# 3. Key Takeaways
 
 <details><summary>Click for more info</summary>
 
@@ -427,13 +431,10 @@ During this lab, IBM Bob assisted in:
 - Enhancing the user interface
 - Accelerating end-to-end application development
 
-
-</details>
-
----
-
-## Conclusion
+### Conclusion
 
 In this lab, you successfully used **IBM Bob** to create a modern full-stack To-Do application through natural language interactions. Instead of manually designing, coding, troubleshooting, and enhancing the entire solution, Bob acted as an AI development assistant throughout the process.
 
 This exercise demonstrated how IBM Bob can significantly improve developer productivity by helping with planning, code generation, debugging, and UI improvements, enabling teams to build and modernise applications faster while maintaining development quality and consistency.
+
+</details>
